@@ -11,7 +11,7 @@ export default function SocialWidget() {
       <Link href="https://www.instagram.com/webwazedigital/" className="cs-center">
         <Icon icon="mdi:instagram" />
       </Link>
-      <Link href="/" className="cs-center">
+      <Link href="https://wa.link/obc4oq" className="cs-center">
         <Icon icon="ic:baseline-whatsapp" />
       </Link>
       <Link href="mailto:contact@webwazedigital.com" className="cs-center">
