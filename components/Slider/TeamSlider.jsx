@@ -19,7 +19,7 @@ export default function TeamSlider() {
       },
     },
     {
-      memberImage: '/images/JOOO.jpg',
+      memberImage: '/images/photo.jpg',
       memberName: 'Jean-Olivier Koulibaly',
       memberDesignation: 'Co-Fondateur',
       memberSocial: {
